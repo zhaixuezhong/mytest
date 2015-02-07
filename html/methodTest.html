@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<script type="text/javascript" src="jquery.min.js"></script>
+
+<script type="text/javascript">
+    $(function(){
+        alert("000000000000!")
+        judgeAndDisabledLoginPartIfFromWechat();
+    })
+
+        function judgeAndDisabledLoginPartIfFromWechat() {
+        var investFrom = Request("investFrom");
+
+        if(investFrom!=null&&investFrom == "WECHAT"){
+           alert("111111111111!");
+        }else{
+       alert("2222222222222 2222!");
+        }
+
+    }
+
+
+    function Request(strName){
+        var strHref =window.location.href;
+        var intPos = strHref.indexOf("?");
+        var strRight = strHref.substr(intPos + 1);
+        var arrTmp = strRight.split("&");
+        for(var i = 0; i < arrTmp.length; i++) {
+            var arrTemp = arrTmp[i].split("=");
+            if(arrTemp[0].toUpperCase() == strName.toUpperCase()) return arrTemp[1];
+        }
+        return "";
+    }
+
+
+
+</script>
+</body>
+</html>
