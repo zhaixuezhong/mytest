@@ -1,5 +1,7 @@
 package design_pattern.singleton01;
 
+import java.sql.Array;
+
 /**
  * Created by zhaixuezhong on 11/4/16.
  */
@@ -59,6 +61,25 @@ class Test {
         car3.showMessage();
 
         //every time we invoke Car.instanceCar() they just return the same object
+
+
+
+        int i1 = 0;
+        int j1 = 0;
+
+        int i2 = 0;
+        int j2 = 0;
+
+        j1 = i1++;
+        j2 = ++i2;
+
+        System.out.println(j1 + " " + j2 );
+
+
+
+
+        String[] s = {"",""};
+        int k = s.length;
 
     }
 }
