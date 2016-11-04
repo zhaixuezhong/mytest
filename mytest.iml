@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
   <component name="EclipseModuleManager">
-    <libelement value="jar://$MODULE_DIR$/../testProject/lib/net.xmind.verify_3.4.1.201401221918.jar!/" />
-    <libelement value="jar://$MODULE_DIR$/../testProject/lib/net.xmind.verify_3.5.1.201411201906.jar!/" />
+    <libelement value="file://lib/net.xmind.verify_3.4.1.201401221918.jar" />
+    <libelement value="file://lib/net.xmind.verify_3.5.1.201411201906.jar" />
     <src_description expected_position="0">
-      <src_folder value="file://$MODULE_DIR$/../testProject/src" expected_position="0" />
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
     </src_description>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="false">
-    <output url="file://$MODULE_DIR$/../testProject/bin" />
+    <output url="file://$MODULE_DIR$/bin" />
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="jdk" jdkName="1.6" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="module-library">
       <library name="net.xmind.verify_3.4.1.201401221918.jar">
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../testProject/lib/net.xmind.verify_3.4.1.201401221918.jar!/" />
+          <root url="file://lib/net.xmind.verify_3.4.1.201401221918.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -27,7 +27,7 @@
     <orderEntry type="module-library">
       <library name="net.xmind.verify_3.5.1.201411201906.jar">
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../testProject/lib/net.xmind.verify_3.5.1.201411201906.jar!/" />
+          <root url="file://lib/net.xmind.verify_3.5.1.201411201906.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
