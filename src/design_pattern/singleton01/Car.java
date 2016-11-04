@@ -17,8 +17,14 @@ public class Car {
     public static Car instanceCar() {
         if(instance == null){
 
+            synchronized (Car.class){
 
-            initCar();
+                if(instance == null){
+                    instance = new Car();
+
+                }
+
+            }
         }
 
         return instance;
@@ -26,10 +32,6 @@ public class Car {
 
 
 
-    public static synchronized void initCar(){
-        instance = new Car();
-        j ++;
-    }
 
 
     public void showMessage(){
@@ -44,17 +46,17 @@ class Test {
     public static void main(String[] args) {
 
 
-//        Car car = Car.instanceCar();
-//
-//        Car car2 = Car.instanceCar();
-//
-//        Car car3 = Car.instanceCar();
-//
-//
-//        car.showMessage();
-//        car2.showMessage();
-//        car2.showMessage();
-//        car3.showMessage();
+        Car car = Car.instanceCar();
+
+        Car car2 = Car.instanceCar();
+
+        Car car3 = Car.instanceCar();
+
+
+        car.showMessage();
+        car2.showMessage();
+        car2.showMessage();
+        car3.showMessage();
 
         //every time we invoke Car.instanceCar() they just return the same object
 
