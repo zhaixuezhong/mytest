@@ -1,5 +1,6 @@
 package testLife.reflect;
 
+import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
@@ -53,11 +54,17 @@ class Test{
                     method.invoke(be,"liLei");
                     System.out.println(be.getAaa());
 
+                    Field fieldAAA = class1.getDeclaredField("aaa");
+                    fieldAAA.setAccessible(true);
+                    System.out.println(fieldAAA.get(be));
+
 
 
                 } catch (NoSuchMethodException e) {
                     e.printStackTrace();
                 } catch (InvocationTargetException e) {
+                    e.printStackTrace();
+                } catch (NoSuchFieldException e) {
                     e.printStackTrace();
                 }
 

@@ -1,4 +1,4 @@
-package design_pattern.factory02.simple_factory;
+package design_pattern.factory.simple_factory;
 
 /**
  * Created by zhaixuezhong on 11/4/16.

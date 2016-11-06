@@ -1,6 +1,4 @@
-package design_pattern.singleton01;
-
-import java.sql.Array;
+package design_pattern.singleton;
 
 /**
  * Created by zhaixuezhong on 11/4/16.

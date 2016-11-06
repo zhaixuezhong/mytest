@@ -1,4 +1,4 @@
-package design_pattern.factory02.factory_method;
+package design_pattern.factory.factory_method;
 
 /**
  * Created by zhaixuezhong on 11/4/16.
