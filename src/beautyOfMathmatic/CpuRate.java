@@ -1,5 +1,8 @@
 package beautyOfMathmatic;
 
+import java.util.AbstractSet;
+import java.util.LinkedList;
+
 /**
  * Created by zhaixuezhong on 11/16/16.
  */
@@ -27,12 +30,13 @@ public class CpuRate extends Thread{
 class Test{
 
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         Thread CpuRate = new Thread(new CpuRate());
         CpuRate.start();
 
-
+        AbstractSet S;
+        LinkedList ll;
 
 
     }

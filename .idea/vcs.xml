@@ -1,8 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-crawler" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-crawler-baidu" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-crawler-linkedin" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-crawler-pbccrc" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-crawler-se-baidu" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-crawler-se-bing" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-crawler-se-haosou" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-crawler-se-sougou" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-crawler-se-yahoo" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-crawler-weibo" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-crawler-weixin" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-crawler-zhihu" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-module-aws" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-module-dao" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-module-drpc" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-module-htmlunit" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-module-mail" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-module-ocr" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-module-redis" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-module-rss" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-module-security-shiro" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-module-service" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-module-timetask" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-module-unit" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-sns-oauth" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-sns-weibo" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/common-storm" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/crawler-manage-web" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/ocr-service-web" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../creditRating/parent" vcs="svn" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../zhai-project/spring4WebMvcMaven" vcs="svn" />
   </component>
 </project>
 

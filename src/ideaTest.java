@@ -1,3 +1,14 @@
+import org.junit.Test;
+
+import java.util.HashMap;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Map;
+import java.util.concurrent.Callable;
+import java.util.concurrent.locks.Condition;
+import java.util.concurrent.locks.Lock;
+import java.util.concurrent.locks.ReentrantLock;
+
 /**
  * Created by zxz on 2015/1/8.
  */
@@ -30,10 +41,39 @@ public class ideaTest {
     private static void printString(String s){
 
 
+        Map<String,Object> map = new HashMap<String,Object>();
+        map.put("","");
+
+
 
     }
 
     ideaTest component;
+
+
+    LinkedList list = new LinkedList();
+
+
+
+    @Test
+    public void myTest(){
+
+        String myStr[] = {"",""};
+        int j = 0;
+        myStr[j++] = "aaa";
+        myStr[j] = "bbb";
+        System.out.println(myStr[0]);
+        System.out.println(myStr[1]);
+
+        notEmpty.signal();
+
+    }
+    Lock lock = new ReentrantLock();
+
+    Condition notEmpty = lock.newCondition();
+
+    Callable callable ;
+
 
 }
 

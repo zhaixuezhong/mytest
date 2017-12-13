@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ocr-service-web:war">
+    <output-path>$PROJECT_DIR$/../creditRating/ocr-service-web/target</output-path>
+    <root id="archive" name="ocr-service.war">
+      <element id="artifact" artifact-name="ocr-service-web:war exploded" />
+    </root>
+  </artifact>
+</component>

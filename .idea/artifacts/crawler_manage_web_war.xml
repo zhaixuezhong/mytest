@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="crawler-manage-web:war">
+    <output-path>$PROJECT_DIR$/../creditRating/crawler-manage-web/target</output-path>
+    <root id="archive" name="data.war">
+      <element id="artifact" artifact-name="crawler-manage-web:war exploded" />
+    </root>
+  </artifact>
+</component>

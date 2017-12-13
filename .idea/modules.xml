@@ -2,8 +2,38 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-crawler/common-crawler.iml" filepath="$PROJECT_DIR$/../creditRating/common-crawler/common-crawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-crawler-baidu/common-crawler-baidu.iml" filepath="$PROJECT_DIR$/../creditRating/common-crawler-baidu/common-crawler-baidu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-crawler-linkedin/common-crawler-linkedin.iml" filepath="$PROJECT_DIR$/../creditRating/common-crawler-linkedin/common-crawler-linkedin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-crawler-pbccrc/common-crawler-pbccrc.iml" filepath="$PROJECT_DIR$/../creditRating/common-crawler-pbccrc/common-crawler-pbccrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-crawler-se-baidu/common-crawler-se-baidu.iml" filepath="$PROJECT_DIR$/../creditRating/common-crawler-se-baidu/common-crawler-se-baidu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-crawler-se-bing/common-crawler-se-bing.iml" filepath="$PROJECT_DIR$/../creditRating/common-crawler-se-bing/common-crawler-se-bing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-crawler-se-haosou/common-crawler-se-haosou.iml" filepath="$PROJECT_DIR$/../creditRating/common-crawler-se-haosou/common-crawler-se-haosou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-crawler-se-sougou/common-crawler-se-sougou.iml" filepath="$PROJECT_DIR$/../creditRating/common-crawler-se-sougou/common-crawler-se-sougou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-crawler-se-yahoo/common-crawler-se-yahoo.iml" filepath="$PROJECT_DIR$/../creditRating/common-crawler-se-yahoo/common-crawler-se-yahoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-crawler-weibo/common-crawler-weibo.iml" filepath="$PROJECT_DIR$/../creditRating/common-crawler-weibo/common-crawler-weibo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-crawler-weixin/common-crawler-weixin.iml" filepath="$PROJECT_DIR$/../creditRating/common-crawler-weixin/common-crawler-weixin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-crawler-zhihu/common-crawler-zhihu.iml" filepath="$PROJECT_DIR$/../creditRating/common-crawler-zhihu/common-crawler-zhihu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-module-aws/common-module-aws.iml" filepath="$PROJECT_DIR$/../creditRating/common-module-aws/common-module-aws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-module-dao/common-module-dao.iml" filepath="$PROJECT_DIR$/../creditRating/common-module-dao/common-module-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-module-drpc/common-module-drpc.iml" filepath="$PROJECT_DIR$/../creditRating/common-module-drpc/common-module-drpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-module-htmlunit/common-module-htmlunit.iml" filepath="$PROJECT_DIR$/../creditRating/common-module-htmlunit/common-module-htmlunit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-module-mail/common-module-mail.iml" filepath="$PROJECT_DIR$/../creditRating/common-module-mail/common-module-mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-module-ocr/common-module-ocr.iml" filepath="$PROJECT_DIR$/../creditRating/common-module-ocr/common-module-ocr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-module-redis/common-module-redis.iml" filepath="$PROJECT_DIR$/../creditRating/common-module-redis/common-module-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-module-rss/common-module-rss.iml" filepath="$PROJECT_DIR$/../creditRating/common-module-rss/common-module-rss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-module-security-shiro/common-module-security-shiro.iml" filepath="$PROJECT_DIR$/../creditRating/common-module-security-shiro/common-module-security-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-module-service/common-module-service.iml" filepath="$PROJECT_DIR$/../creditRating/common-module-service/common-module-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-module-timetask/common-module-timetask.iml" filepath="$PROJECT_DIR$/../creditRating/common-module-timetask/common-module-timetask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-module-unit/common-module-unit.iml" filepath="$PROJECT_DIR$/../creditRating/common-module-unit/common-module-unit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-sns-oauth/common-sns-oauth.iml" filepath="$PROJECT_DIR$/../creditRating/common-sns-oauth/common-sns-oauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-sns-weibo/common-sns-weibo.iml" filepath="$PROJECT_DIR$/../creditRating/common-sns-weibo/common-sns-weibo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/common-storm/common-storm.iml" filepath="$PROJECT_DIR$/../creditRating/common-storm/common-storm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/crawler-manage-web/crawler-manage-web.iml" filepath="$PROJECT_DIR$/../creditRating/crawler-manage-web/crawler-manage-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/mytest.iml" filepath="$PROJECT_DIR$/mytest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../zhaixuezhong.github.com/zhaixuezhong.github.com.iml" filepath="$PROJECT_DIR$/../zhaixuezhong.github.com/zhaixuezhong.github.com.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/ocr-service-web/ocr-service-web.iml" filepath="$PROJECT_DIR$/../creditRating/ocr-service-web/ocr-service-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creditRating/parent/parent.iml" filepath="$PROJECT_DIR$/../creditRating/parent/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zhai-project/spring4WebMvcMaven/spring4WebMvcMaven.iml" filepath="$PROJECT_DIR$/../zhai-project/spring4WebMvcMaven/spring4WebMvcMaven.iml" />
     </modules>
   </component>
 </project>
