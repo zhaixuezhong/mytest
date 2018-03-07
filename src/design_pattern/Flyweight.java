@@ -163,7 +163,7 @@ class BMWSerieCarCustomisation implements BMWCarCustomisation {
 
 }
 
-public class MainTest {
+public class Flyweight {
 
   public static void main(String[] args) {
     BMWCarFlyWeightFactory factory = new BMWSerieFlyWeightFactory();
