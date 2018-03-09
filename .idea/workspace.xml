@@ -2,60 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="ebe85ce9-a7e4-488e-82ca-c17f34d32b10" name="Default" comment="others">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-module-dao/common-module-dao.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-module-ocr/common-module-ocr.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-module-unit/common-module-unit.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-module-htmlunit/common-module-htmlunit.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-crawler-weibo/common-crawler-weibo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-crawler-se-yahoo/common-crawler-se-yahoo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/crawler_manage_web_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-module-service/common-module-service.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-crawler-baidu/common-crawler-baidu.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-module-aws/common-module-aws.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-crawler-linkedin/common-crawler-linkedin.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testLife/memory/Memory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/parent/parent.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-crawler-se-haosou/common-crawler-se-haosou.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-sns-weibo/common-sns-weibo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testLife/interfaces/Memory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/data_stracture/LinkInterview.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-crawler-zhihu/common-crawler-zhihu.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-sns-oauth/common-sns-oauth.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-crawler-weixin/common-crawler-weixin.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-module-security-shiro/common-module-security-shiro.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/crawler-manage-web/crawler-manage-web.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-module-drpc/common-module-drpc.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-module-rss/common-module-rss.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/adapter/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/crawler_manage_web_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-crawler-se-bing/common-crawler-se-bing.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-module-mail/common-module-mail.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-crawler-se-sougou/common-crawler-se-sougou.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/ocr_service_web_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-module-redis/common-module-redis.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testLife/interfaces/Memory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-crawler-se-haosou/common-crawler-se-haosou.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-crawler-weibo/common-crawler-weibo.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-sns-oauth/common-sns-oauth.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-crawler-pbccrc/common-crawler-pbccrc.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-module-service/common-module-service.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/ocr_service_web_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/ocr-service-web/ocr-service-web.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-storm/common-storm.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-crawler-se-bing/common-crawler-se-bing.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/crawler_manage_web_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-crawler-se-yahoo/common-crawler-se-yahoo.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testLife/memory/Memory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/crawler-manage-web/crawler-manage-web.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-module-htmlunit/common-module-htmlunit.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-module-timetask/common-module-timetask.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../creditRating/common-crawler/common-crawler.iml" afterPath="$PROJECT_DIR$/../creditRating/common-crawler/common-crawler.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/testLife/ATest.java" afterPath="$PROJECT_DIR$/src/testLife/ATest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../creditRating/common-crawler" afterPath="$PROJECT_DIR$/../creditRating/common-crawler" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../creditRating/common-module-dao/src/main/java/com/module/dao/entity/data/Exception.java" afterPath="$PROJECT_DIR$/../creditRating/common-module-dao/src/main/java/com/module/dao/entity/data/Exception.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/testLife/base/StringTest.java" afterPath="$PROJECT_DIR$/src/testLife/base/StringTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../creditRating/crawler-manage-web/src/main/webapp/WEB-INF/views/modules/pathVariable.jsp" afterPath="$PROJECT_DIR$/../creditRating/crawler-manage-web/src/main/webapp/WEB-INF/views/modules/pathVariable.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../creditRating/ocr-service-web/src/main/java/com/ocr/controller/PbccrcOCRController.java" afterPath="$PROJECT_DIR$/../creditRating/ocr-service-web/src/main/java/com/ocr/controller/PbccrcOCRController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/testLife/multiThread/ThreadPool.java" afterPath="$PROJECT_DIR$/src/testLife/multiThread/ThreadPool.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/testLife/multiThread/MyThread.java" afterPath="$PROJECT_DIR$/src/testLife/multiThread/MyThread.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ideaTest.java" afterPath="$PROJECT_DIR$/src/ideaTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mytest.iml" afterPath="$PROJECT_DIR$/mytest.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-module-mail/common-module-mail.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-storm/common-storm.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-module-redis/common-module-redis.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/parent/parent.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-crawler-se-sougou/common-crawler-se-sougou.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/data_stracture/LinkInterview.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-sns-weibo/common-sns-weibo.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/crawler_manage_web_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/ocr_service_web_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-crawler-baidu/common-crawler-baidu.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/ocr-service-web/ocr-service-web.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-module-dao/common-module-dao.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/design_pattern/adapter/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-module-aws/common-module-aws.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-crawler-zhihu/common-crawler-zhihu.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-module-rss/common-module-rss.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-module-drpc/common-module-drpc.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-module-unit/common-module-unit.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-crawler-linkedin/common-crawler-linkedin.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../creditRating/common-module-ocr/common-module-ocr.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/testLife/serial/Book.java" afterPath="$PROJECT_DIR$/src/testLife/serial/Book.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../creditRating/ocr-service-web/src/main/java/com/ocr/controller/PbccrcOCRController.java" afterPath="$PROJECT_DIR$/../creditRating/ocr-service-web/src/main/java/com/ocr/controller/PbccrcOCRController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../creditRating/crawler-manage-web/src/main/webapp/WEB-INF/views/modules/pathVariable.jsp" afterPath="$PROJECT_DIR$/../creditRating/crawler-manage-web/src/main/webapp/WEB-INF/views/modules/pathVariable.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mytest.iml" afterPath="$PROJECT_DIR$/mytest.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../creditRating/common-module-dao/src/main/java/com/module/dao/entity/data/Exception.java" afterPath="$PROJECT_DIR$/../creditRating/common-module-dao/src/main/java/com/module/dao/entity/data/Exception.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ideaTest.java" afterPath="$PROJECT_DIR$/src/ideaTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/testLife/ATest.java" afterPath="$PROJECT_DIR$/src/testLife/ATest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/testLife/base/StringTest.java" afterPath="$PROJECT_DIR$/src/testLife/base/StringTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/testLife/multiThread/MyThread.java" afterPath="$PROJECT_DIR$/src/testLife/multiThread/MyThread.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/testLife/multiThread/ThreadPool.java" afterPath="$PROJECT_DIR$/src/testLife/multiThread/ThreadPool.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../creditRating/common-crawler/common-crawler.iml" afterPath="$PROJECT_DIR$/../creditRating/common-crawler/common-crawler.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../creditRating/common-crawler" afterPath="$PROJECT_DIR$/../creditRating/common-crawler" />
     </list>
     <ignored path="testProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -106,56 +106,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NioProgram.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/testLife/net/nio/NioProgram.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/testLife/net/bio/MyServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/testLife/serial/Book.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="62" column="42" lean-forward="false" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BeanEntity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/testLife/reflect/BeanEntity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyClient.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/testLife/net/bio/MyClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AbstractQueuedSynchronizer.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -179,71 +129,9 @@
       <file leaf-file-name="ConcurrentHashMap.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="14190">
               <caret line="1026" column="20" lean-forward="false" selection-start-line="1026" selection-start-column="20" selection-end-line="1026" selection-end-column="20" />
-              <folding>
-                <element signature="e#33810#33853#0" expanded="true" />
-                <element signature="e#35002#35032#0" expanded="true" />
-                <element signature="e#59999#60029#1" expanded="true" />
-                <element signature="e#61753#61783#1" expanded="true" />
-                <element signature="e#61834#61864#1" expanded="true" />
-                <element signature="e#62412#62442#1" expanded="true" />
-                <element signature="e#94368#94398#1" expanded="true" />
-                <element signature="e#98321#98351#1" expanded="true" />
-                <element signature="e#99918#99948#1" expanded="true" />
-                <element signature="e#183746#183776#0" expanded="true" />
-                <element signature="e#197411#197438#0" expanded="true" />
-                <element signature="e#200696#200723#0" expanded="true" />
-                <element signature="e#201707#201734#0" expanded="true" />
-                <element signature="e#202724#202751#0" expanded="true" />
-                <element signature="e#203765#203792#0" expanded="true" />
-                <element signature="e#204834#204861#0" expanded="true" />
-                <element signature="e#206267#206294#0" expanded="true" />
-                <element signature="e#207706#207733#0" expanded="true" />
-                <element signature="e#209156#209183#0" expanded="true" />
-                <element signature="e#210660#210687#0" expanded="true" />
-                <element signature="e#212487#212514#0" expanded="true" />
-                <element signature="e#214320#214347#0" expanded="true" />
-                <element signature="e#216156#216183#0" expanded="true" />
-                <element signature="e#218041#218068#0" expanded="true" />
-                <element signature="e#219551#219581#1" expanded="true" />
-                <element signature="e#220103#220130#0" expanded="true" />
-                <element signature="e#221607#221637#1" expanded="true" />
-                <element signature="e#222163#222190#0" expanded="true" />
-                <element signature="e#223736#223766#1" expanded="true" />
-                <element signature="e#224307#224334#0" expanded="true" />
-                <element signature="e#226184#226214#1" expanded="true" />
-                <element signature="e#226746#226773#0" expanded="true" />
-                <element signature="e#228633#228663#1" expanded="true" />
-                <element signature="e#229199#229226#0" expanded="true" />
-                <element signature="e#231102#231132#1" expanded="true" />
-                <element signature="e#231670#231697#0" expanded="true" />
-                <element signature="e#233613#233643#1" expanded="true" />
-                <element signature="e#234183#234210#0" expanded="true" />
-                <element signature="e#236014#236044#1" expanded="true" />
-                <element signature="e#236442#236469#0" expanded="true" />
-                <element signature="e#238283#238313#1" expanded="true" />
-                <element signature="e#238715#238742#0" expanded="true" />
-                <element signature="e#240572#240602#1" expanded="true" />
-                <element signature="e#241006#241033#0" expanded="true" />
-                <element signature="e#242903#242933#1" expanded="true" />
-                <element signature="e#243339#243366#0" expanded="true" />
-                <element signature="e#245132#245162#1" expanded="true" />
-                <element signature="e#245554#245581#0" expanded="true" />
-                <element signature="e#247357#247387#1" expanded="true" />
-                <element signature="e#247783#247810#0" expanded="true" />
-                <element signature="e#249602#249632#1" expanded="true" />
-                <element signature="e#250030#250057#0" expanded="true" />
-                <element signature="e#251889#251919#1" expanded="true" />
-                <element signature="e#252319#252346#0" expanded="true" />
-                <element signature="e#254101#254131#1" expanded="true" />
-                <element signature="e#254520#254547#0" expanded="true" />
-                <element signature="e#256312#256342#1" expanded="true" />
-                <element signature="e#256735#256762#0" expanded="true" />
-                <element signature="e#258543#258573#1" expanded="true" />
-                <element signature="e#258968#258995#0" expanded="true" />
-                <element signature="e#260816#260846#1" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -251,7 +139,7 @@
       <file leaf-file-name="BaiduSearchParser.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../creditRating/common-crawler-se-baidu/src/main/java/com/crawler/se/baidu/htmlparser/BaiduSearchParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
+            <state relative-caret-position="240">
               <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
@@ -303,7 +191,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
@@ -328,11 +216,56 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="common-crawler-se-baidu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="common-crawler-se-baidu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="common-crawler-se-baidu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="common-crawler-se-baidu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="common-crawler-se-baidu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="baidu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="common-crawler-se-baidu" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="baidu" type="462c0819:PsiDirectoryNode" />
+              <item name="htmlparser" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -926,256 +859,6 @@
     <configuration>$USER_HOME$/.subversion</configuration>
     <supportedVersion>125</supportedVersion>
   </component>
-  <component name="SvnFileUrlMappingImpl">
-    <option name="myMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-crawler" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-crawler" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-baidu" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-baidu" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-linkedin" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-linkedin" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-pbccrc" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-pbccrc" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-se-baidu" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-se-baidu" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-se-bing" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-se-bing" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-se-haosou" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-se-haosou" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-se-sougou" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-se-sougou" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-se-yahoo" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-se-yahoo" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-weibo" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-weibo" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-weixin" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-weixin" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-zhihu" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-zhihu" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-module-aws" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-module-aws" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-module-dao" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-module-dao" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-module-drpc" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-module-drpc" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-module-htmlunit" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-module-htmlunit" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-module-mail" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-module-mail" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-module-ocr" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-module-ocr" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-module-redis" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-module-redis" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-module-rss" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-module-rss" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-module-security-shiro" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-module-security-shiro" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-module-service" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-module-service" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-module-timetask" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-module-timetask" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-module-unit" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-module-unit" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-sns-oauth" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-sns-oauth" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-sns-weibo" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-sns-weibo" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-storm" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-storm" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/crawler-manage-web" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/crawler-manage-web" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/ocr-service-web" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/ocr-service-web" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/parent" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/parent" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
-    <option name="myMoreRealMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-crawler" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-crawler" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-baidu" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-baidu" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-linkedin" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-linkedin" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-pbccrc" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-pbccrc" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-se-baidu" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-se-baidu" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-se-bing" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-se-bing" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-se-haosou" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-se-haosou" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-se-sougou" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-se-sougou" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-se-yahoo" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-se-yahoo" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-weibo" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-weibo" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-weixin" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-weixin" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-zhihu" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-crawler-zhihu" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-module-aws" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-module-aws" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-module-dao" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-module-dao" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-module-drpc" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-module-drpc" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-module-htmlunit" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-module-htmlunit" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-module-mail" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-module-mail" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-module-ocr" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-module-ocr" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-module-redis" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-module-redis" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-module-rss" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-module-rss" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-module-security-shiro" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-module-security-shiro" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-module-service" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-module-service" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-module-timetask" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-module-timetask" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-module-unit" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-module-unit" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-sns-oauth" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-sns-oauth" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-sns-weibo" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-sns-weibo" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/common-storm" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/common-storm" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/crawler-manage-web" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/crawler-manage-web" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/ocr-service-web" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/ocr-service-web" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$/../creditRating/parent" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$/../creditRating/parent" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ebe85ce9-a7e4-488e-82ca-c17f34d32b10" name="Default" comment="" />
@@ -1214,6 +897,7 @@
       <workItem from="1500883651832" duration="33000" />
       <workItem from="1513129325925" duration="898000" />
       <workItem from="1513666235503" duration="57000" />
+      <workItem from="1520563939445" duration="3000" />
     </task>
     <task id="LOCAL-00001" summary="commit all">
       <created>1478226094685</created>
@@ -1268,36 +952,34 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158407000" />
+    <option name="totallyTimeSpent" value="158410000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1001" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3029703" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32079208" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17944622" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3009901" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32079208" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17784877" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3009901" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1307,7 +989,10 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3101093" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32772276" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26633662" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1641,18 +1326,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1980">
           <caret line="167" column="34" lean-forward="false" selection-start-line="167" selection-start-column="34" selection-end-line="167" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ideaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="74" column="9" lean-forward="false" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ideaTest.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/src.zip!/java/util/concurrent/Callable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1660,30 +1337,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/testLife/net/bio/MyClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testLife/net/bio/MyServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testLife/reflect/BeanEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testLife/net/bio/MyClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/testLife/net/bio/MyServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/testLife/reflect/BeanEntity.java" />
     <entry file="file://$PROJECT_DIR$/../creditRating/common-module-security-shiro/common-module-security-shiro.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1691,14 +1347,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/testLife/serial/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="62" column="42" lean-forward="false" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testLife/serial/Book.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28380">
@@ -1715,87 +1364,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/testLife/net/nio/NioProgram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testLife/net/nio/NioProgram.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="14190">
           <caret line="1026" column="20" lean-forward="false" selection-start-line="1026" selection-start-column="20" selection-end-line="1026" selection-end-column="20" />
-          <folding>
-            <element signature="e#33810#33853#0" expanded="true" />
-            <element signature="e#35002#35032#0" expanded="true" />
-            <element signature="e#59999#60029#1" expanded="true" />
-            <element signature="e#61753#61783#1" expanded="true" />
-            <element signature="e#61834#61864#1" expanded="true" />
-            <element signature="e#62412#62442#1" expanded="true" />
-            <element signature="e#94368#94398#1" expanded="true" />
-            <element signature="e#98321#98351#1" expanded="true" />
-            <element signature="e#99918#99948#1" expanded="true" />
-            <element signature="e#183746#183776#0" expanded="true" />
-            <element signature="e#197411#197438#0" expanded="true" />
-            <element signature="e#200696#200723#0" expanded="true" />
-            <element signature="e#201707#201734#0" expanded="true" />
-            <element signature="e#202724#202751#0" expanded="true" />
-            <element signature="e#203765#203792#0" expanded="true" />
-            <element signature="e#204834#204861#0" expanded="true" />
-            <element signature="e#206267#206294#0" expanded="true" />
-            <element signature="e#207706#207733#0" expanded="true" />
-            <element signature="e#209156#209183#0" expanded="true" />
-            <element signature="e#210660#210687#0" expanded="true" />
-            <element signature="e#212487#212514#0" expanded="true" />
-            <element signature="e#214320#214347#0" expanded="true" />
-            <element signature="e#216156#216183#0" expanded="true" />
-            <element signature="e#218041#218068#0" expanded="true" />
-            <element signature="e#219551#219581#1" expanded="true" />
-            <element signature="e#220103#220130#0" expanded="true" />
-            <element signature="e#221607#221637#1" expanded="true" />
-            <element signature="e#222163#222190#0" expanded="true" />
-            <element signature="e#223736#223766#1" expanded="true" />
-            <element signature="e#224307#224334#0" expanded="true" />
-            <element signature="e#226184#226214#1" expanded="true" />
-            <element signature="e#226746#226773#0" expanded="true" />
-            <element signature="e#228633#228663#1" expanded="true" />
-            <element signature="e#229199#229226#0" expanded="true" />
-            <element signature="e#231102#231132#1" expanded="true" />
-            <element signature="e#231670#231697#0" expanded="true" />
-            <element signature="e#233613#233643#1" expanded="true" />
-            <element signature="e#234183#234210#0" expanded="true" />
-            <element signature="e#236014#236044#1" expanded="true" />
-            <element signature="e#236442#236469#0" expanded="true" />
-            <element signature="e#238283#238313#1" expanded="true" />
-            <element signature="e#238715#238742#0" expanded="true" />
-            <element signature="e#240572#240602#1" expanded="true" />
-            <element signature="e#241006#241033#0" expanded="true" />
-            <element signature="e#242903#242933#1" expanded="true" />
-            <element signature="e#243339#243366#0" expanded="true" />
-            <element signature="e#245132#245162#1" expanded="true" />
-            <element signature="e#245554#245581#0" expanded="true" />
-            <element signature="e#247357#247387#1" expanded="true" />
-            <element signature="e#247783#247810#0" expanded="true" />
-            <element signature="e#249602#249632#1" expanded="true" />
-            <element signature="e#250030#250057#0" expanded="true" />
-            <element signature="e#251889#251919#1" expanded="true" />
-            <element signature="e#252319#252346#0" expanded="true" />
-            <element signature="e#254101#254131#1" expanded="true" />
-            <element signature="e#254520#254547#0" expanded="true" />
-            <element signature="e#256312#256342#1" expanded="true" />
-            <element signature="e#256735#256762#0" expanded="true" />
-            <element signature="e#258543#258573#1" expanded="true" />
-            <element signature="e#258968#258995#0" expanded="true" />
-            <element signature="e#260816#260846#1" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../creditRating/common-crawler-se-baidu/src/main/java/com/crawler/se/baidu/htmlparser/BaiduSearchParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="240">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
