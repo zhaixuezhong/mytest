@@ -8,9 +8,9 @@ public class ProfitRate {
   public static void main(String[] args) {
 
     double yearProfitRate = 0;  //年化收益率
-    double initialMoney = 8000;  //初始价格
-    int totalMonth = 12; //还款月份
-    double rate = 0.0023;  //月息
+    double initialMoney = 45400;  //初始价格
+    int totalMonth = 24; //还款月份
+    double rate = 0.0057;  //月息
     double moneyShouldPayPerMonth = initialMoney / totalMonth; //每月应还款额
     double profitShouldPayPerMonth = initialMoney * rate; //每月多还款额
 
