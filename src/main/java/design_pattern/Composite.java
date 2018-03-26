@@ -11,7 +11,7 @@ import java.util.List;
 interface Graphic {
 
   //Prints the graphic.
-  public void print();
+  void print();
 }
 
 /** "Composite" */
