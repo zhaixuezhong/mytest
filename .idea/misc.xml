@@ -9,13 +9,42 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/../zxz/com.zxz.parent/pom.xml" />
         <option value="$PROJECT_DIR$/../creditRating/parent/pom.xml" />
-        <option value="$PROJECT_DIR$/../zhai-project/spring4WebMvcMaven/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/../creditRating/common-crawler-baidu/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-crawler-linkedin/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-crawler-pbccrc/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-crawler-se-baidu/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-crawler-se-bing/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-crawler-se-haosou/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-crawler-se-sougou/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-crawler-se-yahoo/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-crawler-weibo/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-crawler-weixin/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-crawler-zhihu/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-crawler/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-module-aws/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-module-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-module-drpc/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-module-htmlunit/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-module-mail/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-module-ocr/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-module-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-module-rss/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-module-security-shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-module-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-module-timetask/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-module-unit/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-sns-oauth/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-sns-weibo/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/common-storm/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/crawler-manage-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/ocr-service-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../creditRating/parent/pom.xml" />
         <option value="$PROJECT_DIR$/../zxz/com.zxz.db/pom.xml" />
         <option value="$PROJECT_DIR$/../zxz/com.zxz.parent/pom.xml" />
       </set>

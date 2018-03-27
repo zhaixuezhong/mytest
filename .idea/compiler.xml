@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <option name="DEFAULT_COMPILER" value="Javac" />
-    <resourceExtensions />
     <wildcardResourcePatterns>
       <entry name="!?*.java" />
       <entry name="!?*.form" />
@@ -14,44 +12,11 @@
       <entry name="!?*.clj" />
     </wildcardResourcePatterns>
     <annotationProcessing>
-      <profile default="true" name="Default" enabled="false">
-        <processorPath useClasspath="true" />
-      </profile>
-      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+      <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="common-crawler" />
-        <module name="common-crawler-baidu" />
-        <module name="common-crawler-linkedin" />
-        <module name="common-crawler-pbccrc" />
-        <module name="common-crawler-se-baidu" />
-        <module name="common-crawler-se-bing" />
-        <module name="common-crawler-se-haosou" />
-        <module name="common-crawler-se-sougou" />
-        <module name="common-crawler-se-yahoo" />
-        <module name="common-crawler-weibo" />
-        <module name="common-crawler-weixin" />
-        <module name="common-crawler-zhihu" />
-        <module name="common-module-aws" />
-        <module name="common-module-dao" />
-        <module name="common-module-drpc" />
-        <module name="common-module-htmlunit" />
-        <module name="common-module-mail" />
-        <module name="common-module-ocr" />
-        <module name="common-module-redis" />
-        <module name="common-module-rss" />
-        <module name="common-module-security-shiro" />
-        <module name="common-module-service" />
-        <module name="common-module-timetask" />
-        <module name="common-module-unit" />
-        <module name="common-sns-oauth" />
-        <module name="common-sns-weibo" />
-        <module name="common-storm" />
-        <module name="crawler-manage-web" />
-        <module name="ocr-service-web" />
-        <module name="spring4WebMvcMaven" />
+        <module name="mytest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -83,10 +48,10 @@
       <module name="common-sns-weibo" target="1.7" />
       <module name="common-storm" target="1.7" />
       <module name="crawler-manage-web" target="1.7" />
+      <module name="mytest" target="1.8" />
       <module name="ocr-service-web" target="1.7" />
       <module name="parent" target="1.7" />
       <module name="spring4WebMvcMaven" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
-
