@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="spring4WebMvcMaven:war">
-    <output-path>$PROJECT_DIR$/../zhai-project/spring4WebMvcMaven/target</output-path>
-    <root id="archive" name="SpringHibernateExample.war">
-      <element id="artifact" artifact-name="spring4WebMvcMaven:war exploded" />
-    </root>
-  </artifact>
-</component>
