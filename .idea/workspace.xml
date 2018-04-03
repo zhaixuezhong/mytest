@@ -1,38 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="ebe85ce9-a7e4-488e-82ca-c17f34d32b10" name="Default" comment="others">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/design_pattern/Adapter.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/crawler_manage_web_war.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/crawler_manage_web_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/ocr_service_web_war.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/ocr_service_web_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/spring4WebMvcMaven_war.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/spring4WebMvcMaven_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jdom_jdom_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_3_3_8.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_20.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testProject.iml" afterPath="$PROJECT_DIR$/testProject.iml" />
+    <list default="true" readonly="true" id="ebe85ce9-a7e4-488e-82ca-c17f34d32b10" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/design_pattern/Adapter.java" afterPath="$PROJECT_DIR$/src/main/java/design_pattern/Adapter.java" />
     </list>
     <ignored path="testProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -98,7 +69,7 @@
       <file leaf-file-name="Decorator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/Decorator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="1215">
               <caret line="81" column="3" lean-forward="false" selection-start-line="81" selection-start-column="3" selection-end-line="81" selection-end-column="3" />
               <folding>
                 <element signature="e#435#436#0" expanded="true" />
@@ -125,8 +96,8 @@
       <file leaf-file-name="Facade.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/Facade.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="67" column="31" lean-forward="true" selection-start-line="67" selection-start-column="31" selection-end-line="67" selection-end-column="31" />
+            <state relative-caret-position="75">
+              <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -135,8 +106,8 @@
       <file leaf-file-name="Memento.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/Memento.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+            <state relative-caret-position="570">
+              <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -145,14 +116,9 @@
       <file leaf-file-name="Adapter.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/Adapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="46" column="41" lean-forward="true" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
-              <folding>
-                <element signature="e#356#357#0" expanded="true" />
-                <element signature="e#423#424#0" expanded="true" />
-                <element signature="e#679#680#0" expanded="true" />
-                <element signature="e#746#747#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="495">
+              <caret line="74" column="37" lean-forward="false" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -174,7 +140,7 @@
                   <point x="0.0" y="14.5" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="-338.5" y="-32.0" />
+              <settings layout="Hierarchic Group" zoom="1.0" x="-338.0" y="-32.0" />
               <SelectedNodes>
                 <node>design_pattern.MediaAdapter</node>
               </SelectedNodes>
@@ -192,69 +158,47 @@
               <ID>JAVA</ID>
               <OriginalElement>design_pattern.AdvancedMediaPlayer</OriginalElement>
               <nodes>
-                <node x="260.6328125" y="246.0">design_pattern.MediaAdapter</node>
-                <node x="217.7265625" y="0.0">design_pattern.AdvancedMediaPlayer</node>
-                <node x="0.0" y="123.0">design_pattern.Mp4Player</node>
-                <node x="435.0" y="134.0">design_pattern.MediaPlayer</node>
-                <node x="316.25" y="370.0">design_pattern.AudioPlayer</node>
-                <node x="217.0" y="123.0">design_pattern.VlcPlayer</node>
+                <node x="235.0" y="342.0">design_pattern.MediaAdapter</node>
+                <node x="108.5" y="0.0">design_pattern.AdvancedMediaPlayer</node>
+                <node x="217.0" y="123.0">design_pattern.Mp4Player</node>
+                <node x="117.5" y="241.0">design_pattern.MediaPlayer</node>
+                <node x="0.0" y="353.5">design_pattern.AudioPlayer</node>
+                <node x="0.0" y="123.0">design_pattern.VlcPlayer</node>
               </nodes>
               <notes />
               <edges>
-                <edge source="design_pattern.MediaAdapter" target="design_pattern.MediaPlayer">
-                  <point x="80.625" y="-37.0" />
-                  <point x="448.7578125" y="221.0" />
-                  <point x="488.75" y="221.0" />
+                <edge source="design_pattern.AudioPlayer" target="design_pattern.MediaPlayer">
+                  <point x="0.0" y="-25.5" />
+                  <point x="107.5" y="317.0" />
+                  <point x="171.25" y="317.0" />
                   <point x="-53.75" y="25.5" />
                 </edge>
-                <edge source="design_pattern.MediaAdapter" target="design_pattern.Mp4Player">
-                  <point x="-80.625" y="-37.0" />
-                  <point x="287.5078125" y="221.0" />
-                  <point x="98.5" y="221.0" />
-                  <point x="0.0" y="36.5" />
-                </edge>
-                <edge source="design_pattern.AudioPlayer" target="design_pattern.MediaAdapter">
-                  <point x="0.0" y="-25.5" />
-                  <point x="423.75" y="345.0" />
-                  <point x="421.8828125" y="345.0" />
-                  <point x="53.75" y="37.0" />
+                <edge source="design_pattern.MediaAdapter" target="design_pattern.MediaPlayer">
+                  <point x="0.0" y="-37.0" />
+                  <point x="342.5" y="317.0" />
+                  <point x="278.75" y="317.0" />
+                  <point x="53.75" y="25.5" />
                 </edge>
                 <edge source="design_pattern.VlcPlayer" target="design_pattern.AdvancedMediaPlayer">
                   <point x="0.0" y="-36.5" />
-                  <point x="0.0" y="36.5" />
-                </edge>
-                <edge source="design_pattern.MediaAdapter" target="design_pattern.VlcPlayer">
-                  <point x="-26.875" y="-37.0" />
-                  <point x="341.2578125" y="221.0" />
-                  <point x="315.5" y="221.0" />
-                  <point x="0.0" y="36.5" />
-                </edge>
-                <edge source="design_pattern.MediaAdapter" target="design_pattern.AdvancedMediaPlayer">
-                  <point x="26.875" y="-37.0" />
-                  <point x="395.0078125" y="221.0" />
-                  <point x="424.5" y="221.0" />
-                  <point x="424.5" y="98.0" />
-                  <point x="381.8932291666667" y="98.0" />
-                  <point x="65.66666666666669" y="36.5" />
+                  <point x="98.5" y="98.0" />
+                  <point x="157.75" y="98.0" />
+                  <point x="-49.25" y="36.5" />
                 </edge>
                 <edge source="design_pattern.Mp4Player" target="design_pattern.AdvancedMediaPlayer">
                   <point x="0.0" y="-36.5" />
-                  <point x="98.5" y="98.0" />
-                  <point x="250.55989583333331" y="98.0" />
-                  <point x="-65.66666666666669" y="36.5" />
-                </edge>
-                <edge source="design_pattern.AudioPlayer" target="design_pattern.MediaPlayer">
-                  <point x="71.66666666666663" y="-25.5" />
-                  <point x="495.41666666666663" y="345.0" />
-                  <point x="596.25" y="345.0" />
-                  <point x="53.75" y="25.5" />
+                  <point x="315.5" y="98.0" />
+                  <point x="256.25" y="98.0" />
+                  <point x="49.25" y="36.5" />
                 </edge>
               </edges>
               <settings layout="Hierarchic Group" zoom="1.0" x="-80.0" y="125.0" />
-              <SelectedNodes />
+              <SelectedNodes>
+                <node>design_pattern.AdvancedMediaPlayer</node>
+              </SelectedNodes>
               <Categories>
-                <Category>Methods</Category>
                 <Category>Constructors</Category>
+                <Category>Methods</Category>
               </Categories>
               <SCOPE>All</SCOPE>
               <VISIBILITY>private</VISIBILITY>
@@ -279,6 +223,12 @@
               </nodes>
               <notes />
               <edges>
+                <edge source="design_pattern.AudioPlayer" target="design_pattern.MediaPlayer">
+                  <point x="0.0" y="-14.5" />
+                  <point x="60.5" y="54.0" />
+                  <point x="103.75" y="54.0" />
+                  <point x="-30.25" y="14.5" />
+                </edge>
                 <edge source="design_pattern.MediaAdapter" target="design_pattern.MediaPlayer">
                   <point x="0.0" y="-14.5" />
                   <point x="207.5" y="54.0" />
@@ -297,17 +247,9 @@
                   <point x="161.5" y="207.0" />
                   <point x="45.5" y="14.5" />
                 </edge>
-                <edge source="design_pattern.AudioPlayer" target="design_pattern.MediaPlayer">
-                  <point x="0.0" y="-14.5" />
-                  <point x="60.5" y="54.0" />
-                  <point x="103.75" y="54.0" />
-                  <point x="-30.25" y="14.5" />
-                </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="-268.0" y="81.5" />
-              <SelectedNodes>
-                <node>design_pattern.Adapter</node>
-              </SelectedNodes>
+              <settings layout="Hierarchic Group" zoom="1.0" x="-268.0" y="82.0" />
+              <SelectedNodes />
               <Categories />
               <SCOPE>All</SCOPE>
               <VISIBILITY>private</VISIBILITY>
@@ -318,7 +260,7 @@
       <file leaf-file-name="Intepreate.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/design_practice/Intepreate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
+            <state relative-caret-position="1155">
               <caret line="85" column="96" lean-forward="false" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="96" />
               <folding>
                 <element signature="e#2335#2336#0" expanded="true" />
@@ -397,7 +339,7 @@
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1920" />
-    <option name="height" value="997" />
+    <option name="height" value="989" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -420,7 +362,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -520,9 +461,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1037,7 +979,9 @@
       <workItem from="1522068495019" duration="7198000" />
       <workItem from="1522131181305" duration="720000" />
       <workItem from="1522201329374" duration="3429000" />
-      <workItem from="1522319382670" duration="5011000" />
+      <workItem from="1522319382670" duration="6874000" />
+      <workItem from="1522632687657" duration="4512000" />
+      <workItem from="1522720437977" duration="886000" />
     </task>
     <task id="LOCAL-00001" summary="commit all">
       <created>1478226094685</created>
@@ -1095,19 +1039,25 @@
       <option name="project" value="LOCAL" />
       <updated>1522069204245</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="others">
+      <created>1522378941670</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1522378941670</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175423000" />
+    <option name="totallyTimeSpent" value="182684000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32770607" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1120,13 +1070,13 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19062833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19488817" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30089375" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30089375" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1135,6 +1085,7 @@
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3101093" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32770607" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -1450,10 +1401,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27285">
           <caret line="1924" column="16" lean-forward="false" selection-start-line="1924" selection-start-column="16" selection-end-line="1924" selection-end-column="16" />
-          <folding>
-            <element signature="e#68197#68198#0" expanded="false" />
-            <element signature="e#68254#68255#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1520,13 +1467,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="872">
           <caret line="77" column="30" lean-forward="false" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/Decorator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="1215">
           <caret line="81" column="3" lean-forward="false" selection-start-line="81" selection-start-column="3" selection-end-line="81" selection-end-column="3" />
           <folding>
             <element signature="e#435#436#0" expanded="true" />
@@ -1551,7 +1497,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/design_practice/Intepreate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
+        <state relative-caret-position="1155">
           <caret line="85" column="96" lean-forward="false" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="96" />
           <folding>
             <element signature="e#2335#2336#0" expanded="true" />
@@ -1564,7 +1510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="86" column="12" lean-forward="true" selection-start-line="86" selection-start-column="12" selection-end-line="86" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1578,16 +1523,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/Memento.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        <state relative-caret-position="570">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/design_pattern.MediaAdapter">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>design_pattern.MediaAdapter</OriginalElement>
+          <nodes>
+            <node x="0.0" y="79.0">design_pattern.MediaAdapter</node>
+            <node x="6.0" y="0.0">design_pattern.MediaPlayer</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="design_pattern.MediaAdapter" target="design_pattern.MediaPlayer">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-338.0" y="-32.0" />
+          <SelectedNodes>
+            <node>design_pattern.MediaAdapter</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/Facade.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="67" column="31" lean-forward="true" selection-start-line="67" selection-start-column="31" selection-end-line="67" selection-end-column="31" />
+        <state relative-caret-position="75">
+          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -1608,6 +1579,12 @@
           </nodes>
           <notes />
           <edges>
+            <edge source="design_pattern.AudioPlayer" target="design_pattern.MediaPlayer">
+              <point x="0.0" y="-14.5" />
+              <point x="60.5" y="54.0" />
+              <point x="103.75" y="54.0" />
+              <point x="-30.25" y="14.5" />
+            </edge>
             <edge source="design_pattern.MediaAdapter" target="design_pattern.MediaPlayer">
               <point x="0.0" y="-14.5" />
               <point x="207.5" y="54.0" />
@@ -1626,43 +1603,9 @@
               <point x="161.5" y="207.0" />
               <point x="45.5" y="14.5" />
             </edge>
-            <edge source="design_pattern.AudioPlayer" target="design_pattern.MediaPlayer">
-              <point x="0.0" y="-14.5" />
-              <point x="60.5" y="54.0" />
-              <point x="103.75" y="54.0" />
-              <point x="-30.25" y="14.5" />
-            </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-268.0" y="81.5" />
-          <SelectedNodes>
-            <node>design_pattern.Adapter</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/design_pattern.MediaAdapter">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>design_pattern.MediaAdapter</OriginalElement>
-          <nodes>
-            <node x="0.0" y="79.0">design_pattern.MediaAdapter</node>
-            <node x="6.0" y="0.0">design_pattern.MediaPlayer</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="design_pattern.MediaAdapter" target="design_pattern.MediaPlayer">
-              <point x="0.0" y="-14.5" />
-              <point x="0.0" y="14.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-338.5" y="-32.0" />
-          <SelectedNodes>
-            <node>design_pattern.MediaAdapter</node>
-          </SelectedNodes>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-268.0" y="82.0" />
+          <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
@@ -1675,69 +1618,47 @@
           <ID>JAVA</ID>
           <OriginalElement>design_pattern.AdvancedMediaPlayer</OriginalElement>
           <nodes>
-            <node x="260.6328125" y="246.0">design_pattern.MediaAdapter</node>
-            <node x="217.7265625" y="0.0">design_pattern.AdvancedMediaPlayer</node>
-            <node x="0.0" y="123.0">design_pattern.Mp4Player</node>
-            <node x="435.0" y="134.0">design_pattern.MediaPlayer</node>
-            <node x="316.25" y="370.0">design_pattern.AudioPlayer</node>
-            <node x="217.0" y="123.0">design_pattern.VlcPlayer</node>
+            <node x="235.0" y="342.0">design_pattern.MediaAdapter</node>
+            <node x="108.5" y="0.0">design_pattern.AdvancedMediaPlayer</node>
+            <node x="217.0" y="123.0">design_pattern.Mp4Player</node>
+            <node x="117.5" y="241.0">design_pattern.MediaPlayer</node>
+            <node x="0.0" y="353.5">design_pattern.AudioPlayer</node>
+            <node x="0.0" y="123.0">design_pattern.VlcPlayer</node>
           </nodes>
           <notes />
           <edges>
-            <edge source="design_pattern.MediaAdapter" target="design_pattern.MediaPlayer">
-              <point x="80.625" y="-37.0" />
-              <point x="448.7578125" y="221.0" />
-              <point x="488.75" y="221.0" />
+            <edge source="design_pattern.AudioPlayer" target="design_pattern.MediaPlayer">
+              <point x="0.0" y="-25.5" />
+              <point x="107.5" y="317.0" />
+              <point x="171.25" y="317.0" />
               <point x="-53.75" y="25.5" />
             </edge>
-            <edge source="design_pattern.MediaAdapter" target="design_pattern.Mp4Player">
-              <point x="-80.625" y="-37.0" />
-              <point x="287.5078125" y="221.0" />
-              <point x="98.5" y="221.0" />
-              <point x="0.0" y="36.5" />
-            </edge>
-            <edge source="design_pattern.AudioPlayer" target="design_pattern.MediaAdapter">
-              <point x="0.0" y="-25.5" />
-              <point x="423.75" y="345.0" />
-              <point x="421.8828125" y="345.0" />
-              <point x="53.75" y="37.0" />
+            <edge source="design_pattern.MediaAdapter" target="design_pattern.MediaPlayer">
+              <point x="0.0" y="-37.0" />
+              <point x="342.5" y="317.0" />
+              <point x="278.75" y="317.0" />
+              <point x="53.75" y="25.5" />
             </edge>
             <edge source="design_pattern.VlcPlayer" target="design_pattern.AdvancedMediaPlayer">
               <point x="0.0" y="-36.5" />
-              <point x="0.0" y="36.5" />
-            </edge>
-            <edge source="design_pattern.MediaAdapter" target="design_pattern.VlcPlayer">
-              <point x="-26.875" y="-37.0" />
-              <point x="341.2578125" y="221.0" />
-              <point x="315.5" y="221.0" />
-              <point x="0.0" y="36.5" />
-            </edge>
-            <edge source="design_pattern.MediaAdapter" target="design_pattern.AdvancedMediaPlayer">
-              <point x="26.875" y="-37.0" />
-              <point x="395.0078125" y="221.0" />
-              <point x="424.5" y="221.0" />
-              <point x="424.5" y="98.0" />
-              <point x="381.8932291666667" y="98.0" />
-              <point x="65.66666666666669" y="36.5" />
+              <point x="98.5" y="98.0" />
+              <point x="157.75" y="98.0" />
+              <point x="-49.25" y="36.5" />
             </edge>
             <edge source="design_pattern.Mp4Player" target="design_pattern.AdvancedMediaPlayer">
               <point x="0.0" y="-36.5" />
-              <point x="98.5" y="98.0" />
-              <point x="250.55989583333331" y="98.0" />
-              <point x="-65.66666666666669" y="36.5" />
-            </edge>
-            <edge source="design_pattern.AudioPlayer" target="design_pattern.MediaPlayer">
-              <point x="71.66666666666663" y="-25.5" />
-              <point x="495.41666666666663" y="345.0" />
-              <point x="596.25" y="345.0" />
-              <point x="53.75" y="25.5" />
+              <point x="315.5" y="98.0" />
+              <point x="256.25" y="98.0" />
+              <point x="49.25" y="36.5" />
             </edge>
           </edges>
           <settings layout="Hierarchic Group" zoom="1.0" x="-80.0" y="125.0" />
-          <SelectedNodes />
+          <SelectedNodes>
+            <node>design_pattern.AdvancedMediaPlayer</node>
+          </SelectedNodes>
           <Categories>
-            <Category>Methods</Category>
             <Category>Constructors</Category>
+            <Category>Methods</Category>
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
@@ -1746,14 +1667,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/Adapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="46" column="41" lean-forward="true" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
-          <folding>
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
-            <element signature="e#746#747#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="495">
+          <caret line="74" column="37" lean-forward="false" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
