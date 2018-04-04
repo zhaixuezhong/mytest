@@ -6,39 +6,6 @@
     </list>
     <ignored path="testProject.iws" />
     <ignored path=".idea/workspace.xml" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-crawler-pbccrc/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-crawler/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-crawler-linkedin/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-crawler-baidu/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-crawler-se-bing/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-crawler-se-baidu/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-crawler-se-yahoo/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-crawler-weibo/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-crawler-se-sougou/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-crawler-se-haosou/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-module-aws/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-module-dao/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-module-drpc/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-module-htmlunit/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-crawler-weixin/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-crawler-zhihu/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-module-redis/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-module-ocr/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-module-security-shiro/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-module-rss/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-module-service/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-module-unit/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-sns-oauth/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-module-timetask/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-storm/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-module-mail/target/" />
-    <ignored path="$PROJECT_DIR$/bin/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/parent/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/ocr-service-web/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/common-sns-weibo/target/" />
-    <ignored path="$PROJECT_DIR$/../zhai-project/spring4WebMvcMaven/target/" />
-    <ignored path="$PROJECT_DIR$/../creditRating/crawler-manage-web/target/" />
-    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,11 +42,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="86" column="60" lean-forward="false" selection-start-line="86" selection-start-column="60" selection-end-line="86" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -279,6 +256,7 @@
         <option value="$PROJECT_DIR$/src/main/java/design_pattern/Decorator.java" />
         <option value="$PROJECT_DIR$/src/main/java/design_pattern/Adapter.java" />
         <option value="$PROJECT_DIR$/src/main/java/design_pattern/ProtoType.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -323,6 +301,11 @@
             <path>
               <item name="mytest" type="b2602c69:ProjectViewProjectNode" />
               <item name="mytest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mytest" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mytest" type="b2602c69:ProjectViewProjectNode" />
@@ -576,7 +559,7 @@
       <workItem from="1522201329374" duration="3429000" />
       <workItem from="1522319382670" duration="6874000" />
       <workItem from="1522632687657" duration="4512000" />
-      <workItem from="1522720437977" duration="8291000" />
+      <workItem from="1522720437977" duration="8338000" />
     </task>
     <task id="LOCAL-00001" summary="commit all">
       <created>1478226094685</created>
@@ -655,11 +638,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522810502126</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="delete unused file">
+      <created>1522810576565</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1522810576565</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="190089000" />
+    <option name="totallyTimeSpent" value="190136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -749,7 +739,8 @@
     <MESSAGE value="others" />
     <MESSAGE value="add adapter pattern" />
     <MESSAGE value="add prototype pattern example" />
-    <option name="LAST_COMMIT_MESSAGE" value="add prototype pattern example" />
+    <MESSAGE value="delete unused file" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete unused file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1343,18 +1334,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="86" column="60" lean-forward="false" selection-start-line="86" selection-start-column="60" selection-end-line="86" selection-end-column="60" />
           <folding />
         </state>
       </provider>
