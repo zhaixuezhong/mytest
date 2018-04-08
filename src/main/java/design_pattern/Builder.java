@@ -1,6 +1,7 @@
 package design_pattern;
 
-import java.util.function.BiFunction;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Created by zhaixuezhong(2079) on 3/15/18.
@@ -10,49 +11,166 @@ import java.util.function.BiFunction;
  * Represents the product created by the builder.
  */
 
-class Car {
-  public final int wheels;
-  public final String color;
+interface Item {
+  String name();
 
-  private Car(final int wheels, final String color) {
-    this.wheels = wheels;
-    this.color = color;
-  }
+  Packing packing();
 
-  public static Builder<Car> builder() {
-    return new Builder<>(Car::new);
-  }
+  float price();
+}
+
+interface Packing {
+  String pack();
+}
+
+class Wrapper implements Packing {
 
   @Override
-  public String toString() {
-    return "Car [wheels = " + wheels + ", color = " + color + "]";
+  public String pack() {
+    return "Wrapper";
   }
 }
 
-/**
- * The builder abstraction.
- */
-public class Builder<T> {
-  private final BiFunction<Integer, String, T> builder;
+class Bottle implements Packing {
 
-  private int wheelsOrZero;
-  private String colorOrNull;
+  @Override
+  public String pack() {
+    return "Bottle";
+  }
+}
 
-  Builder(final BiFunction<Integer, String, T> builder) {
-    this.builder = builder;
+abstract class Burger implements Item {
+
+  @Override
+  public Packing packing() {
+    return new Wrapper();
   }
 
-  public T build() {
-    return builder.apply(wheelsOrZero, colorOrNull);
+  @Override
+  public abstract float price();
+}
+
+
+abstract class ColdDrink implements Item {
+
+  @Override
+  public Packing packing() {
+    return new Bottle();
   }
 
-  public Builder<T> setWheels(final int wheels) {
-    wheelsOrZero = wheels;
-    return this;
+  @Override
+  public abstract float price();
+}
+
+class VegBurger extends Burger {
+
+  @Override
+  public float price() {
+    return 25.0f;
   }
 
-  public Builder<T> setColor(final String color) {
-    colorOrNull = color;
-    return this;
+  @Override
+  public String name() {
+    return "Veg Burger";
+  }
+}
+
+class ChickenBurger extends Burger {
+
+  @Override
+  public float price() {
+    return 50.5f;
+  }
+
+  @Override
+  public String name() {
+    return "Chicken Burger";
+  }
+}
+
+class Coke extends ColdDrink {
+
+  @Override
+  public float price() {
+    return 30.0f;
+  }
+
+  @Override
+  public String name() {
+    return "Coke";
+  }
+}
+
+class Pepsi extends ColdDrink {
+
+  @Override
+  public float price() {
+    return 35.0f;
+  }
+
+  @Override
+  public String name() {
+    return "Pepsi";
+  }
+}
+
+class Meal {
+  private List<Item> items = new ArrayList<>();
+
+  public void addItem(Item item) {
+    items.add(item);
+  }
+
+  public float getCost() {
+    float cost = 0.0f;
+
+    for (Item item : items) {
+      cost += item.price();
+    }
+    return cost;
+  }
+
+  public void showItems() {
+
+    for (Item item : items) {
+      System.out.print("Item : " + item.name());
+      System.out.print(", Packing : " + item.packing().pack());
+      System.out.println(", Price : " + item.price());
+    }
+  }
+}
+
+class MealBuilder {
+
+  public Meal prepareVegMeal() {
+    Meal meal = new Meal();
+    meal.addItem(new VegBurger());
+    meal.addItem(new Coke());
+    return meal;
+  }
+
+  public Meal prepareNonVegMeal() {
+    Meal meal = new Meal();
+    meal.addItem(new ChickenBurger());
+    meal.addItem(new Pepsi());
+    return meal;
+  }
+}
+
+
+public class Builder {
+  public static void main(String[] args) {
+
+    MealBuilder mealBuilder = new MealBuilder();
+
+    Meal vegMeal = mealBuilder.prepareVegMeal();
+    System.out.println("Veg Meal");
+    vegMeal.showItems();
+    System.out.println("Total Cost: " + vegMeal.getCost());
+
+    Meal nonVegMeal = mealBuilder.prepareNonVegMeal();
+    System.out.println("\n\nNon-Veg Meal");
+    nonVegMeal.showItems();
+    System.out.println("Total Cost: " + nonVegMeal.getCost());
   }
 }
