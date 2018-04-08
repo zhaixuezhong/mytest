@@ -45,9 +45,6 @@ abstract class Burger implements Item {
   public Packing packing() {
     return new Wrapper();
   }
-
-  @Override
-  public abstract float price();
 }
 
 
@@ -58,8 +55,6 @@ abstract class ColdDrink implements Item {
     return new Bottle();
   }
 
-  @Override
-  public abstract float price();
 }
 
 class VegBurger extends Burger {
