@@ -5,79 +5,48 @@ package design_pattern;
  */
 class FactoryMethodClient {
 
-  public static void main(String args[]) {
-    RoomFactory shapeFactory = new RoomFactory();
+  public static void main(String[] args) {
+    FactoryMethod brand1 = new ConcreateFactoryA();
+    brand1.createProduct().brand();
 
-    //get an object of Circle and call its draw method.
-    Room shape1 = shapeFactory.getShape("GAME");
+    FactoryMethod brand2 = new ConcreateFactoryB();
+    brand2.createProduct().brand();
 
-    //call draw method of Circle
-    shape1.draw();
+  }
+}
 
-    //get an object of Rectangle and call its draw method.
-    Room shape2 = shapeFactory.getShape("PLEASURE");
 
-    //call draw method of Rectangle
-    shape2.draw();
+interface Product {
+  void brand();
+}
 
-    //get an object of Square and call its draw method.
-    Room shape3 = shapeFactory.getShape("MEETING");
+interface FactoryMethod {
+  Product createProduct();
+}
 
-    //call draw method of circle
-    shape3.draw();
+class ConcreateProductA implements Product {
+  public void brand() {
+    System.out.println("ConcreateProductA");
+  }
+}
+
+class ConcreateProductB implements Product {
+  public void brand() {
+    System.out.println("ConcreateProductB");
+  }
+}
+
+class ConcreateFactoryA implements FactoryMethod {
+
+  public Product createProduct() {
+    return new ConcreateProductA();
   }
 
 }
 
 
-
-
-interface Room {
-  void draw();
-}
-
-
-class GameRoom implements Room {
-
-  @Override
-  public void draw() {
-    System.out.println("Inside GameRoom::draw() method.");
-  }
-}
-
-class PleasureRoom implements Room {
-
-  @Override
-  public void draw() {
-    System.out.println("Inside PleasureRoom::draw() method.");
-  }
-}
-
-class MeetingRoom implements Room {
-
-  @Override
-  public void draw() {
-    System.out.println("Inside MeetingRoom::draw() method.");
-  }
-}
-
-class RoomFactory {
-
-  //use getShape method to get object of type shape
-  public Room getShape(String shapeType){
-    if(shapeType == null){
-      return null;
-    }
-    if(shapeType.equalsIgnoreCase("GAME")){
-      return new GameRoom();
-
-    } else if(shapeType.equalsIgnoreCase("PLEASURE")){
-      return new PleasureRoom();
-
-    } else if(shapeType.equalsIgnoreCase("MEETING")){
-      return new MeetingRoom();
-    }
-
-    return null;
+class ConcreateFactoryB implements FactoryMethod {
+  public Product createProduct() {
+    return new ConcreateProductB();
   }
 }
