@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="ebe85ce9-a7e4-488e-82ca-c17f34d32b10" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/design_pattern/FactoryMethod.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/design_pattern/FactoryAbstract.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/design_pattern/Bridge.java" afterPath="$PROJECT_DIR$/src/main/java/design_pattern/Bridge.java" />
     </list>
     <ignored path="testProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,8 +24,223 @@
       <file leaf-file-name="Bridge.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/Bridge.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="74" column="48" lean-forward="false" selection-start-line="74" selection-start-column="48" selection-end-line="74" selection-end-column="48" />
+            <state relative-caret-position="260">
+              <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FactoryAbstract.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/FactoryAbstract.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="172" column="0" lean-forward="true" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
+              <folding>
+                <element signature="e#1353#1354#0" expanded="true" />
+                <element signature="e#1417#1418#0" expanded="true" />
+                <element signature="e#1501#1502#0" expanded="true" />
+                <element signature="e#1562#1563#0" expanded="true" />
+                <element signature="e#1646#1647#0" expanded="true" />
+                <element signature="e#1707#1708#0" expanded="true" />
+                <element signature="e#1811#1812#0" expanded="true" />
+                <element signature="e#1869#1870#0" expanded="true" />
+                <element signature="e#1938#1939#0" expanded="true" />
+                <element signature="e#1998#1999#0" expanded="true" />
+                <element signature="e#2066#2067#0" expanded="true" />
+                <element signature="e#2125#2126#0" expanded="true" />
+                <element signature="e#2749#2750#0" expanded="true" />
+                <element signature="e#2770#2771#0" expanded="true" />
+                <element signature="e#2878#2879#0" expanded="true" />
+                <element signature="e#2899#2900#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/design_pattern.AbstractFactory" pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/design_pattern.AbstractFactory">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>design_pattern.AbstractFactory</OriginalElement>
+              <nodes>
+                <node x="718.5" y="109.0">design_pattern.Green</node>
+                <node x="549.0" y="277.0">design_pattern.FactoryProducer</node>
+                <node x="178.5" y="109.0">design_pattern.SquareApparance</node>
+                <node x="746.5" y="198.0">design_pattern.ColorFactory</node>
+                <node x="914.5" y="109.0">design_pattern.Blue</node>
+                <node x="776.7083333333333" y="0.0">design_pattern.Color</node>
+                <node x="299.95833333333326" y="0.0">design_pattern.Apparance</node>
+                <node x="10.5" y="109.0">design_pattern.CircleApparance</node>
+                <node x="355.5" y="109.0">design_pattern.RectangleApparance</node>
+                <node x="823.5" y="109.0">design_pattern.Red</node>
+                <node x="550.5" y="109.0">design_pattern.AbstractFactory</node>
+                <node x="283.75" y="198.0">design_pattern.ShapeFactory</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="design_pattern.ShapeFactory" target="design_pattern.SquareApparance">
+                  <point x="-11.0" y="-14.5" />
+                  <point x="338.75" y="158.0" />
+                  <point x="257.0" y="158.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="design_pattern.Blue" target="design_pattern.Color">
+                  <point x="0.0" y="-14.5" />
+                  <point x="952.0" y="79.0" />
+                  <point x="837.4583333333333" y="79.0" />
+                  <point x="20.25" y="14.5" />
+                </edge>
+                <edge source="design_pattern.AbstractFactory" target="design_pattern.Color">
+                  <point x="36.75" y="-14.5" />
+                  <point x="660.75" y="79.0" />
+                  <point x="796.9583333333333" y="79.0" />
+                  <point x="-20.25" y="14.5" />
+                </edge>
+                <edge source="design_pattern.ShapeFactory" target="design_pattern.Color">
+                  <point x="33.0" y="-14.5" />
+                  <point x="382.75" y="168.0" />
+                  <point x="540.0" y="168.0" />
+                  <point x="540.0" y="69.0" />
+                  <point x="783.4583333333333" y="69.0" />
+                  <point x="-33.75" y="14.5" />
+                </edge>
+                <edge source="design_pattern.ColorFactory" target="design_pattern.AbstractFactory">
+                  <point x="-52.91666666666663" y="-14.5" />
+                  <point x="757.0833333333334" y="178.0" />
+                  <point x="673.0" y="178.0" />
+                  <point x="49.0" y="14.5" />
+                </edge>
+                <edge source="design_pattern.ColorFactory" target="design_pattern.Apparance">
+                  <point x="-31.75" y="-14.5" />
+                  <point x="778.25" y="168.0" />
+                  <point x="708.0" y="168.0" />
+                  <point x="708.0" y="49.0" />
+                  <point x="404.45833333333326" y="49.0" />
+                  <point x="47.5" y="14.5" />
+                </edge>
+                <edge source="design_pattern.FactoryProducer" target="design_pattern.AbstractFactory">
+                  <point x="0.0" y="-14.5" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="design_pattern.ColorFactory" target="design_pattern.Color">
+                  <point x="52.91666666666666" y="-14.5" />
+                  <point x="862.9166666666666" y="178.0" />
+                  <point x="1000.0" y="178.0" />
+                  <point x="1000.0" y="69.0" />
+                  <point x="850.9583333333333" y="69.0" />
+                  <point x="33.75" y="14.5" />
+                </edge>
+                <edge source="design_pattern.Green" target="design_pattern.Color">
+                  <point x="0.0" y="-14.5" />
+                  <point x="761.0" y="89.0" />
+                  <point x="810.4583333333333" y="89.0" />
+                  <point x="-6.75" y="14.5" />
+                </edge>
+                <edge source="design_pattern.CircleApparance" target="design_pattern.Apparance">
+                  <point x="0.0" y="-14.5" />
+                  <point x="84.5" y="79.0" />
+                  <point x="328.45833333333326" y="79.0" />
+                  <point x="-28.5" y="14.5" />
+                </edge>
+                <edge source="design_pattern.SquareApparance" target="design_pattern.Apparance">
+                  <point x="0.0" y="-14.5" />
+                  <point x="257.0" y="89.0" />
+                  <point x="347.45833333333326" y="89.0" />
+                  <point x="-9.5" y="14.5" />
+                </edge>
+                <edge source="design_pattern.ShapeFactory" target="design_pattern.RectangleApparance">
+                  <point x="11.0" y="-14.5" />
+                  <point x="360.75" y="158.0" />
+                  <point x="442.5" y="158.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="design_pattern.ShapeFactory" target="design_pattern.AbstractFactory">
+                  <point x="55.0" y="-14.5" />
+                  <point x="404.75" y="178.0" />
+                  <point x="575.0" y="178.0" />
+                  <point x="-49.0" y="14.5" />
+                </edge>
+                <edge source="design_pattern.ColorFactory" target="design_pattern.Red">
+                  <point x="10.583333333333371" y="-14.5" />
+                  <point x="820.5833333333334" y="158.0" />
+                  <point x="859.0" y="158.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="design_pattern.ColorFactory" target="design_pattern.Blue">
+                  <point x="31.75" y="-14.5" />
+                  <point x="841.75" y="168.0" />
+                  <point x="952.0" y="168.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="design_pattern.RectangleApparance" target="design_pattern.Apparance">
+                  <point x="0.0" y="-14.5" />
+                  <point x="442.5" y="89.0" />
+                  <point x="366.45833333333326" y="89.0" />
+                  <point x="9.5" y="14.5" />
+                </edge>
+                <edge source="design_pattern.FactoryProducer" target="design_pattern.ShapeFactory">
+                  <point x="-50.0" y="-14.5" />
+                  <point x="574.0" y="252.0" />
+                  <point x="349.75" y="252.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="design_pattern.ShapeFactory" target="design_pattern.Apparance">
+                  <point x="-55.0" y="-14.5" />
+                  <point x="294.75" y="178.0" />
+                  <point x="0.0" y="178.0" />
+                  <point x="0.0" y="69.0" />
+                  <point x="309.45833333333326" y="69.0" />
+                  <point x="-47.5" y="14.5" />
+                </edge>
+                <edge source="design_pattern.Red" target="design_pattern.Color">
+                  <point x="0.0" y="-14.5" />
+                  <point x="859.0" y="89.0" />
+                  <point x="823.9583333333333" y="89.0" />
+                  <point x="6.75" y="14.5" />
+                </edge>
+                <edge source="design_pattern.ShapeFactory" target="design_pattern.CircleApparance">
+                  <point x="-33.0" y="-14.5" />
+                  <point x="316.75" y="168.0" />
+                  <point x="84.5" y="168.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="design_pattern.AbstractFactory" target="design_pattern.Apparance">
+                  <point x="-36.75" y="-14.5" />
+                  <point x="587.25" y="59.0" />
+                  <point x="385.45833333333326" y="59.0" />
+                  <point x="28.5" y="14.5" />
+                </edge>
+                <edge source="design_pattern.ColorFactory" target="design_pattern.Green">
+                  <point x="-10.583333333333371" y="-14.5" />
+                  <point x="799.4166666666666" y="158.0" />
+                  <point x="761.0" y="158.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+                <edge source="design_pattern.FactoryProducer" target="design_pattern.ColorFactory">
+                  <point x="50.0" y="-14.5" />
+                  <point x="674.0" y="252.0" />
+                  <point x="810.0" y="252.0" />
+                  <point x="0.0" y="14.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="103.0" y="77.0" />
+              <SelectedNodes>
+                <node>design_pattern.FactoryProducer</node>
+              </SelectedNodes>
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Facade.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/Facade.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -47,11 +264,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FactoryMethod.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FactoryMethod.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/FactoryMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="70" column="43" lean-forward="true" selection-start-line="70" selection-start-column="43" selection-end-line="70" selection-end-column="43" />
+            <state relative-caret-position="303">
+              <caret line="49" column="11" lean-forward="true" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
               <folding>
                 <element signature="e#804#805#0" expanded="true" />
                 <element signature="e#867#868#0" expanded="true" />
@@ -190,6 +407,8 @@
         <option value="$PROJECT_DIR$/src/main/java/design_pattern/ProtoType.java" />
         <option value="$PROJECT_DIR$/src/main/java/design_pattern/Builder.java" />
         <option value="$PROJECT_DIR$/src/main/java/design_pattern/FactoryMethod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/Bridge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/design_pattern/FactoryAbstract.java" />
       </list>
     </option>
   </component>
@@ -273,7 +492,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="FactoryMethod.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="Facade.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="mytest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mytest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="FactoryAbstract.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -482,7 +710,7 @@
       <workItem from="1522632687657" duration="4512000" />
       <workItem from="1522720437977" duration="13014000" />
       <workItem from="1523151191016" duration="5004000" />
-      <workItem from="1523237310214" duration="1577000" />
+      <workItem from="1523237310214" duration="2127000" />
     </task>
     <task id="LOCAL-00001" summary="commit all">
       <created>1478226094685</created>
@@ -589,11 +817,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523168089519</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add factory method">
+      <created>1523239842593</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1523239842593</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="201393000" />
+    <option name="totallyTimeSpent" value="201943000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -607,7 +842,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3029703" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.122470714" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3207547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3207547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969216" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -689,7 +924,8 @@
     <MESSAGE value="delete unused file" />
     <MESSAGE value="add builder pattern" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="add factory method" />
+    <option name="LAST_COMMIT_MESSAGE" value="add factory method" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -706,20 +942,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../zhai-project/spring4WebMvcMaven/src/main/java/com/lynas/dao/impl/EmployeeDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../zhai-project/spring4WebMvcMaven/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="55" column="35" lean-forward="false" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/Condition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -994,14 +1216,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/Facade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/Memento.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -1067,6 +1281,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
           <caret line="84" column="101" lean-forward="true" selection-start-line="84" selection-start-column="101" selection-end-line="84" selection-end-column="101" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1180,14 +1395,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/Bridge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="74" column="48" lean-forward="false" selection-start-line="74" selection-start-column="48" selection-end-line="74" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/design_pattern.Bottle">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -1293,10 +1500,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/Bridge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/Facade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/FactoryMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="70" column="43" lean-forward="true" selection-start-line="70" selection-start-column="43" selection-end-line="70" selection-end-column="43" />
+        <state relative-caret-position="303">
+          <caret line="49" column="11" lean-forward="true" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
           <folding>
             <element signature="e#804#805#0" expanded="true" />
             <element signature="e#867#868#0" expanded="true" />
@@ -1304,6 +1527,207 @@
             <element signature="e#1010#1011#0" expanded="true" />
             <element signature="e#1085#1086#0" expanded="true" />
             <element signature="e#1151#1152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/design_pattern.AbstractFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>design_pattern.AbstractFactory</OriginalElement>
+          <nodes>
+            <node x="718.5" y="109.0">design_pattern.Green</node>
+            <node x="549.0" y="277.0">design_pattern.FactoryProducer</node>
+            <node x="178.5" y="109.0">design_pattern.SquareApparance</node>
+            <node x="746.5" y="198.0">design_pattern.ColorFactory</node>
+            <node x="914.5" y="109.0">design_pattern.Blue</node>
+            <node x="776.7083333333333" y="0.0">design_pattern.Color</node>
+            <node x="299.95833333333326" y="0.0">design_pattern.Apparance</node>
+            <node x="10.5" y="109.0">design_pattern.CircleApparance</node>
+            <node x="355.5" y="109.0">design_pattern.RectangleApparance</node>
+            <node x="823.5" y="109.0">design_pattern.Red</node>
+            <node x="550.5" y="109.0">design_pattern.AbstractFactory</node>
+            <node x="283.75" y="198.0">design_pattern.ShapeFactory</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="design_pattern.ShapeFactory" target="design_pattern.SquareApparance">
+              <point x="-11.0" y="-14.5" />
+              <point x="338.75" y="158.0" />
+              <point x="257.0" y="158.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="design_pattern.Blue" target="design_pattern.Color">
+              <point x="0.0" y="-14.5" />
+              <point x="952.0" y="79.0" />
+              <point x="837.4583333333333" y="79.0" />
+              <point x="20.25" y="14.5" />
+            </edge>
+            <edge source="design_pattern.AbstractFactory" target="design_pattern.Color">
+              <point x="36.75" y="-14.5" />
+              <point x="660.75" y="79.0" />
+              <point x="796.9583333333333" y="79.0" />
+              <point x="-20.25" y="14.5" />
+            </edge>
+            <edge source="design_pattern.ShapeFactory" target="design_pattern.Color">
+              <point x="33.0" y="-14.5" />
+              <point x="382.75" y="168.0" />
+              <point x="540.0" y="168.0" />
+              <point x="540.0" y="69.0" />
+              <point x="783.4583333333333" y="69.0" />
+              <point x="-33.75" y="14.5" />
+            </edge>
+            <edge source="design_pattern.ColorFactory" target="design_pattern.AbstractFactory">
+              <point x="-52.91666666666663" y="-14.5" />
+              <point x="757.0833333333334" y="178.0" />
+              <point x="673.0" y="178.0" />
+              <point x="49.0" y="14.5" />
+            </edge>
+            <edge source="design_pattern.ColorFactory" target="design_pattern.Apparance">
+              <point x="-31.75" y="-14.5" />
+              <point x="778.25" y="168.0" />
+              <point x="708.0" y="168.0" />
+              <point x="708.0" y="49.0" />
+              <point x="404.45833333333326" y="49.0" />
+              <point x="47.5" y="14.5" />
+            </edge>
+            <edge source="design_pattern.FactoryProducer" target="design_pattern.AbstractFactory">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="design_pattern.ColorFactory" target="design_pattern.Color">
+              <point x="52.91666666666666" y="-14.5" />
+              <point x="862.9166666666666" y="178.0" />
+              <point x="1000.0" y="178.0" />
+              <point x="1000.0" y="69.0" />
+              <point x="850.9583333333333" y="69.0" />
+              <point x="33.75" y="14.5" />
+            </edge>
+            <edge source="design_pattern.Green" target="design_pattern.Color">
+              <point x="0.0" y="-14.5" />
+              <point x="761.0" y="89.0" />
+              <point x="810.4583333333333" y="89.0" />
+              <point x="-6.75" y="14.5" />
+            </edge>
+            <edge source="design_pattern.CircleApparance" target="design_pattern.Apparance">
+              <point x="0.0" y="-14.5" />
+              <point x="84.5" y="79.0" />
+              <point x="328.45833333333326" y="79.0" />
+              <point x="-28.5" y="14.5" />
+            </edge>
+            <edge source="design_pattern.SquareApparance" target="design_pattern.Apparance">
+              <point x="0.0" y="-14.5" />
+              <point x="257.0" y="89.0" />
+              <point x="347.45833333333326" y="89.0" />
+              <point x="-9.5" y="14.5" />
+            </edge>
+            <edge source="design_pattern.ShapeFactory" target="design_pattern.RectangleApparance">
+              <point x="11.0" y="-14.5" />
+              <point x="360.75" y="158.0" />
+              <point x="442.5" y="158.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="design_pattern.ShapeFactory" target="design_pattern.AbstractFactory">
+              <point x="55.0" y="-14.5" />
+              <point x="404.75" y="178.0" />
+              <point x="575.0" y="178.0" />
+              <point x="-49.0" y="14.5" />
+            </edge>
+            <edge source="design_pattern.ColorFactory" target="design_pattern.Red">
+              <point x="10.583333333333371" y="-14.5" />
+              <point x="820.5833333333334" y="158.0" />
+              <point x="859.0" y="158.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="design_pattern.ColorFactory" target="design_pattern.Blue">
+              <point x="31.75" y="-14.5" />
+              <point x="841.75" y="168.0" />
+              <point x="952.0" y="168.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="design_pattern.RectangleApparance" target="design_pattern.Apparance">
+              <point x="0.0" y="-14.5" />
+              <point x="442.5" y="89.0" />
+              <point x="366.45833333333326" y="89.0" />
+              <point x="9.5" y="14.5" />
+            </edge>
+            <edge source="design_pattern.FactoryProducer" target="design_pattern.ShapeFactory">
+              <point x="-50.0" y="-14.5" />
+              <point x="574.0" y="252.0" />
+              <point x="349.75" y="252.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="design_pattern.ShapeFactory" target="design_pattern.Apparance">
+              <point x="-55.0" y="-14.5" />
+              <point x="294.75" y="178.0" />
+              <point x="0.0" y="178.0" />
+              <point x="0.0" y="69.0" />
+              <point x="309.45833333333326" y="69.0" />
+              <point x="-47.5" y="14.5" />
+            </edge>
+            <edge source="design_pattern.Red" target="design_pattern.Color">
+              <point x="0.0" y="-14.5" />
+              <point x="859.0" y="89.0" />
+              <point x="823.9583333333333" y="89.0" />
+              <point x="6.75" y="14.5" />
+            </edge>
+            <edge source="design_pattern.ShapeFactory" target="design_pattern.CircleApparance">
+              <point x="-33.0" y="-14.5" />
+              <point x="316.75" y="168.0" />
+              <point x="84.5" y="168.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="design_pattern.AbstractFactory" target="design_pattern.Apparance">
+              <point x="-36.75" y="-14.5" />
+              <point x="587.25" y="59.0" />
+              <point x="385.45833333333326" y="59.0" />
+              <point x="28.5" y="14.5" />
+            </edge>
+            <edge source="design_pattern.ColorFactory" target="design_pattern.Green">
+              <point x="-10.583333333333371" y="-14.5" />
+              <point x="799.4166666666666" y="158.0" />
+              <point x="761.0" y="158.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="design_pattern.FactoryProducer" target="design_pattern.ColorFactory">
+              <point x="50.0" y="-14.5" />
+              <point x="674.0" y="252.0" />
+              <point x="810.0" y="252.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="103.0" y="77.0" />
+          <SelectedNodes>
+            <node>design_pattern.FactoryProducer</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/design_pattern/FactoryAbstract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="172" column="0" lean-forward="true" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
+          <folding>
+            <element signature="e#1353#1354#0" expanded="true" />
+            <element signature="e#1417#1418#0" expanded="true" />
+            <element signature="e#1501#1502#0" expanded="true" />
+            <element signature="e#1562#1563#0" expanded="true" />
+            <element signature="e#1646#1647#0" expanded="true" />
+            <element signature="e#1707#1708#0" expanded="true" />
+            <element signature="e#1811#1812#0" expanded="true" />
+            <element signature="e#1869#1870#0" expanded="true" />
+            <element signature="e#1938#1939#0" expanded="true" />
+            <element signature="e#1998#1999#0" expanded="true" />
+            <element signature="e#2066#2067#0" expanded="true" />
+            <element signature="e#2125#2126#0" expanded="true" />
+            <element signature="e#2749#2750#0" expanded="true" />
+            <element signature="e#2770#2771#0" expanded="true" />
+            <element signature="e#2878#2879#0" expanded="true" />
+            <element signature="e#2899#2900#0" expanded="true" />
           </folding>
         </state>
       </provider>

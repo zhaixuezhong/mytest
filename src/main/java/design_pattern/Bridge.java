@@ -32,10 +32,10 @@ class DrawingAPI2 implements DrawingAPI {
 /**
  * "Abstraction"
  */
-abstract class Shape {
+abstract class BridgeShape {
   protected DrawingAPI drawingAPI;
 
-  protected Shape(final DrawingAPI drawingAPI) {
+  protected BridgeShape(final DrawingAPI drawingAPI) {
     this.drawingAPI = drawingAPI;
   }
 
@@ -47,7 +47,7 @@ abstract class Shape {
 /**
  * "Refined Abstraction"
  */
-class CircleShape extends Shape {
+class CircleShape extends BridgeShape {
   private double x, y, radius;
 
   public CircleShape(final double x, final double y, final double radius, final DrawingAPI drawingAPI) {
@@ -73,12 +73,12 @@ class CircleShape extends Shape {
  */
 public class Bridge {
   public static void main(final String[] args) {
-    Shape[] shapes = new Shape[]{
+    BridgeShape[] shapes = new BridgeShape[]{
         new CircleShape(1, 2, 3, new DrawingAPI1()),
         new CircleShape(5, 7, 11, new DrawingAPI2())
     };
 
-    for (Shape shape : shapes) {
+    for (BridgeShape shape : shapes) {
       shape.resizeByPercentage(2.5);
       shape.draw();
     }
