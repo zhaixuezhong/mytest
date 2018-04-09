@@ -3,7 +3,7 @@ package design_pattern;
 /**
  * Created by zhaixuezhong(2079) on 4/9/18.
  */
-public class FactoryMethod {
+class FactoryMethodClient {
 
   public static void main(String args[]) {
     RoomFactory shapeFactory = new RoomFactory();
