@@ -10,19 +10,19 @@ class AbstractFactoryClient {
     AbstractFactory shapeFactory = FactoryProducer.getFactory("SHAPE");
 
     //get an object of Shape Circle
-    Apparance shape1 = shapeFactory.getShape("CIRCLE");
+    Appearance shape1 = shapeFactory.getShape("CIRCLE");
 
     //call draw method of Shape Circle
     shape1.draw();
 
     //get an object of Shape Rectangle
-    Apparance shape2 = shapeFactory.getShape("RECTANGLE");
+    Appearance shape2 = shapeFactory.getShape("RECTANGLE");
 
     //call draw method of Shape Rectangle
     shape2.draw();
 
     //get an object of Shape Square
-    Apparance shape3 = shapeFactory.getShape("SQUARE");
+    Appearance shape3 = shapeFactory.getShape("SQUARE");
 
     //call draw method of Shape Square
     shape3.draw();
@@ -51,11 +51,11 @@ class AbstractFactoryClient {
 }
 
 
-interface Apparance {
+interface Appearance {
   void draw();
 }
 
-class RectangleApparance implements Apparance {
+class RectangleApparance implements Appearance {
 
   @Override
   public void draw() {
@@ -63,7 +63,7 @@ class RectangleApparance implements Apparance {
   }
 }
 
-class SquareApparance implements Apparance {
+class SquareApparance implements Appearance {
 
   @Override
   public void draw() {
@@ -71,7 +71,7 @@ class SquareApparance implements Apparance {
   }
 }
 
-class CircleApparance implements Apparance {
+class CircleApparance implements Appearance {
 
   @Override
   public void draw() {
@@ -107,12 +107,12 @@ class Blue implements Color {
 
 abstract class AbstractFactory {
   abstract Color getColor(String color);
-  abstract Apparance getShape(String shape) ;
+  abstract Appearance getShape(String shape) ;
 }
-class ShapeFactory extends AbstractFactory {
+class AppearanceFactory extends AbstractFactory {
 
   @Override
-  public Apparance getShape(String shapeType){
+  public Appearance getShape(String shapeType){
 
     if(shapeType == null){
       return null;
@@ -140,7 +140,7 @@ class ShapeFactory extends AbstractFactory {
 class ColorFactory extends AbstractFactory {
 
   @Override
-  public Apparance getShape(String shapeType){
+  public Appearance getShape(String shapeType){
     return null;
   }
 
@@ -169,7 +169,7 @@ class FactoryProducer {
   public static AbstractFactory getFactory(String choice){
 
     if(choice.equalsIgnoreCase("SHAPE")){
-      return new ShapeFactory();
+      return new AppearanceFactory();
 
     }else if(choice.equalsIgnoreCase("COLOR")){
       return new ColorFactory();

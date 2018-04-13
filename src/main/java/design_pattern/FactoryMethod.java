@@ -6,10 +6,10 @@ package design_pattern;
 class FactoryMethodClient {
 
   public static void main(String[] args) {
-    FactoryMethod brand1 = new ConcreateFactoryA();
+    FactoryMethod brand1 = new ProductFactoryE();
     brand1.createProduct().brand();
 
-    FactoryMethod brand2 = new ConcreateFactoryB();
+    FactoryMethod brand2 = new ProductFactoryF();
     brand2.createProduct().brand();
 
   }
@@ -24,29 +24,29 @@ interface FactoryMethod {
   Product createProduct();
 }
 
-class ConcreateProductA implements Product {
+class ProductE implements Product {
   public void brand() {
-    System.out.println("ConcreateProductA");
+    System.out.println("ProductE");
   }
 }
 
-class ConcreateProductB implements Product {
+class ProductF implements Product {
   public void brand() {
-    System.out.println("ConcreateProductB");
+    System.out.println("ProductF");
   }
 }
 
-class ConcreateFactoryA implements FactoryMethod {
+class ProductFactoryE implements FactoryMethod {
 
   public Product createProduct() {
-    return new ConcreateProductA();
+    return new ProductE();
   }
 
 }
 
 
-class ConcreateFactoryB implements FactoryMethod {
+class ProductFactoryF implements FactoryMethod {
   public Product createProduct() {
-    return new ConcreateProductB();
+    return new ProductF();
   }
 }
