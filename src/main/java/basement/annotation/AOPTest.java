@@ -37,4 +37,5 @@ public class AOPTest {
     System.out.println(name2);
     dog.getProperty();
   }
+
 }
