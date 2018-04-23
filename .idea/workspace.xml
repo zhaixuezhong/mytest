@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="ebe85ce9-a7e4-488e-82ca-c17f34d32b10" name="Default" comment="UPDATE">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/design_practice/Builder.java" />
+    <list default="true" readonly="true" id="ebe85ce9-a7e4-488e-82ca-c17f34d32b10" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/design_pattern/Builder.java" afterPath="$PROJECT_DIR$/src/main/java/design_pattern/Builder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/design_practice/Builder.java" afterPath="$PROJECT_DIR$/src/main/java/design_practice/Builder.java" />
     </list>
     <ignored path="testProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,8 +66,8 @@
       <file leaf-file-name="Builder.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/design_practice/Builder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="99" column="24" lean-forward="true" selection-start-line="99" selection-start-column="24" selection-end-line="99" selection-end-column="24" />
+            <state relative-caret-position="495">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#552#553#0" expanded="true" />
@@ -87,6 +86,7 @@
                 <element signature="e#1208#1209#0" expanded="true" />
                 <element signature="e#1246#1247#0" expanded="true" />
                 <element signature="e#1264#1265#0" expanded="true" />
+                <element signature="e#1332#1333#0" expanded="true" />
                 <element signature="e#1355#1356#0" expanded="true" />
                 <element signature="e#1393#1394#0" expanded="true" />
                 <element signature="e#1411#1412#0" expanded="true" />
@@ -327,15 +327,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="design_practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mytest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mytest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="design_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Builder.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -619,7 +610,7 @@
       <workItem from="1523585040024" duration="3784000" />
       <workItem from="1523841883843" duration="341000" />
       <workItem from="1523929041434" duration="1113000" />
-      <workItem from="1524447316418" duration="1881000" />
+      <workItem from="1524447316418" duration="2325000" />
     </task>
     <task id="LOCAL-00001" summary="commit all">
       <created>1478226094685</created>
@@ -768,11 +759,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523929199030</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="add practice">
+      <created>1524449337734</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1524449337734</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="214788000" />
+    <option name="totallyTimeSpent" value="215232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
@@ -872,7 +870,8 @@
     <MESSAGE value="factory pattern" />
     <MESSAGE value="update" />
     <MESSAGE value="UPDATE" />
-    <option name="LAST_COMMIT_MESSAGE" value="UPDATE" />
+    <MESSAGE value="add practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="add practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1896,8 +1895,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/design_practice/Builder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="99" column="24" lean-forward="true" selection-start-line="99" selection-start-column="24" selection-end-line="99" selection-end-column="24" />
+        <state relative-caret-position="495">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#552#553#0" expanded="true" />
@@ -1916,6 +1915,7 @@
             <element signature="e#1208#1209#0" expanded="true" />
             <element signature="e#1246#1247#0" expanded="true" />
             <element signature="e#1264#1265#0" expanded="true" />
+            <element signature="e#1332#1333#0" expanded="true" />
             <element signature="e#1355#1356#0" expanded="true" />
             <element signature="e#1393#1394#0" expanded="true" />
             <element signature="e#1411#1412#0" expanded="true" />

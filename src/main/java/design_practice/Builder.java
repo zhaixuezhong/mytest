@@ -15,11 +15,9 @@ public class Builder {
     meal.showItems();
     meal.getCost();
 
-
     Meal meal2 = mealBuilder.parpareVegMeal();
-    meal.showItems();
-    meal.getCost();
-
+    meal2.showItems();
+    meal2.getCost();
   }
 }
 
@@ -164,5 +162,6 @@ class MealBuilder{
     meal.addItems(new Pepsi());
     return meal;
   }
+
 
 }
